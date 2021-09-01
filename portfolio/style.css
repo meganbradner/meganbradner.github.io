@@ -1,5 +1,5 @@
 body {
-    background-image: url('music-stand.jpeg');
+    background-image: url('record.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -7,21 +7,17 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
-i {
-    padding-left: 10px;
-    font-size: 30px;
-}
 .navbar h1 {
-    color: #C1D3F6;
+    color: #8D80AB;
     padding-left: 15px !important;
 }
 
 .navbar a {
-    color: #C1D3F6;
+    color: #8D80AB;
 }
 
 .navbar a:hover {
-    color: white;
+    color: #E35F87;
     text-decoration: underline;
 }
 
@@ -30,22 +26,27 @@ i {
     color: black;
 }
 
+.purple {
+    width: 250px;
+    /* border-radius: 100%; */
+}
+
 footer {
-    background-color: rgba(255, 255, 255, 0.781);
+    background-color: rgba(255, 255, 255, 0.904);
 }
 
 footer h3 {
     padding-bottom: 15px;
-    color: black; 
+    color: #8D80AB; 
 }
 
 footer a {
-    color: black;
+    color: #8D80AB;
     text-decoration: none;
 }
 
 footer a:hover {
-    color: black;
+    color: #E35F87;
     text-decoration: underline;
 }
 
