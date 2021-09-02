@@ -32,31 +32,10 @@ body {
     text-shadow: 2px 3px 5px black;
 }
 
-/* footer {
-    background-color: #212529c4;
-}
-
-footer h3 {
-    padding-bottom: 15px;
-    color: #8D80AB; 
-}
-
-footer a {
-    color: #8D80AB;
-    text-decoration: none;
-}
-
-footer a:hover {
-    color: #E11268;
-    text-decoration: underline;
-} */
-
-
 .footer {
     padding:40px 0;
     background-color: #212529c4;
 }
-
 
 .footer ul {
 
@@ -69,7 +48,6 @@ margin-bottom: 0;
 padding: 0 10px;
 }
 
-
 .footer a {
 color: #8D80AB;
 text-decoration: none;
@@ -78,6 +56,10 @@ text-decoration: none;
 .footer a:hover {
 color: #E11268;
 text-decoration: underline;
+}
+
+i {
+    padding-right: 8px;
 }
 
 .footer .copyright {
