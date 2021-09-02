@@ -23,6 +23,11 @@ body {
     text-decoration: underline;
 }
 
+#sky {
+    width: 100vw;
+    height: 400px;
+}
+
 .about {
     background-color: rgba(255, 255, 255, 0.815);
     color: black;
@@ -33,7 +38,8 @@ body {
 }
 
 footer {
-    background-color: rgba(255, 255, 255, 0.904);
+    background-color: #212529c4;
+    height: 85px;
 }
 
 footer h3 {
