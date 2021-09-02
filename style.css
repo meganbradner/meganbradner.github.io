@@ -1,15 +1,7 @@
 body {
-    /* background-image: url('record.jpeg'); */
     font-family: 'Quicksand', sans-serif;
     color: white;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-image: linear-gradient(to right,#534F98,#414897, #8E80B1,#BF9BC4);
-}
-
-.navbar {
-    width: 100vw;
+    background-image: linear-gradient(to right,#5A4C97,#938EAE, #8E80B1,#BF9BC4, #3B3B75);
 }
 
 .navbar h1 {
@@ -32,7 +24,7 @@ body {
 }
 
 .about {
-    background-color: rgba(255, 255, 255, 0.815);
+    background-color: rgba(255, 255, 255, 0.76);
     color: #1A2227;
 }
 
@@ -42,9 +34,7 @@ body {
 
 footer {
     background-color: #212529c4;
-    height: 85px;
 }
-
 
 footer h3 {
     padding-bottom: 15px;
@@ -62,14 +52,6 @@ footer a:hover {
 }
 
 
-
-@media (min-width: 576px) {
-
-.about {
-    text-align: center;
-}
-
-}
 
 @media (min-width: 576px) {
 
