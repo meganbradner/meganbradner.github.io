@@ -8,6 +8,10 @@ body {
     background-image: linear-gradient(to right,#534F98,#414897, #8E80B1,#BF9BC4);
 }
 
+.navbar {
+    width: 100vw;
+}
+
 .navbar h1 {
     color: #8D80AB;
     padding-left: 15px !important;
@@ -22,9 +26,8 @@ body {
     text-decoration: underline;
 }
 
-
 #sky {
-    width: 1000px;
+    width: 100vw;
     height: 400px;
 }
 
@@ -59,12 +62,22 @@ footer a:hover {
 }
 
 
+
 @media (min-width: 576px) {
 
 .about {
     text-align: center;
 }
 
+}
+
+@media (min-width: 576px) {
+
+
+.about {
+    text-align: center;
+}
+    
 }
 	
 
