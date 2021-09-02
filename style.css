@@ -1,12 +1,11 @@
 body {
-    background-image: url('record.jpeg');
-    /* background-image: url('bpmusic.jpg'); */
+    /* background-image: url('record.jpeg'); */
+    font-family: 'Quicksand', sans-serif;
+    color: white;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    /* background-image: linear-gradient(rgb(0, 0, 0), rgb(29, 28, 28), rgb(49, 47, 47)); */
-    color: white;
-    font-family: 'Quicksand', sans-serif;
+    background-image: linear-gradient(to right,#534F98,#414897, #8E80B1,#BF9BC4);
 }
 
 .navbar h1 {
@@ -19,18 +18,19 @@ body {
 }
 
 .navbar a:hover {
-    color: #E35F87;
+    color: #E11268;
     text-decoration: underline;
 }
 
+
 #sky {
-    width: 100vw;
+    width: 1000px;
     height: 400px;
 }
 
 .about {
     background-color: rgba(255, 255, 255, 0.815);
-    color: black;
+    color: #1A2227;
 }
 
 .shadow {
@@ -41,6 +41,7 @@ footer {
     background-color: #212529c4;
     height: 85px;
 }
+
 
 footer h3 {
     padding-bottom: 15px;
@@ -53,7 +54,7 @@ footer a {
 }
 
 footer a:hover {
-    color: #E35F87;
+    color: #E11268;
     text-decoration: underline;
 }
 
