@@ -79,13 +79,69 @@ color:#8D80AB;
 }
 
 
-@media (min-width: 576px) {
+@media (min-width: 320px) {
 
+.navbar h1 {
+    margin-left: 50px;
+}
+
+.navbar a { 
+    padding-left: 38px;
+}
 
 .about {
     text-align: center;
 }
-    
+
+
+
+
+}
+
+	
+@media (min-width: 576px) {
+
+.navbar h1 {
+    margin-left: 0;
+}
+
+.navbar a {
+    margin-left: 0;
+    padding: 10px;
+}
+
 }
 	
+@media (min-width: 800px) {
+
+
+.about {
+    text-align: start;
+    /* padding-top: 20px; */
+    margin: 20px
+}
+
+}
+
+@media (min-width: 992px) {
+
+.about {
+    width: 80%;
+    margin-left: 140px !important;
+    margin-top: 40px !important;
+}
+
+
+}
+
+@media (min-width: 1200px) {
+	/* EXTRA LARGE SCREEN WIDTH */
+	/* large desktops, devices 1200px or wider */
+
+	/* 5. Even smaller desktops can emulate extra-wide monitors
+	in responsive design mode.  Often desktop-width is sufficient
+	for ultra-wide screens, but as more and more internet users
+	have larger screens, developers are beginning to style websites
+	for those users. Add that css here. */
+}
 
