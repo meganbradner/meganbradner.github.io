@@ -32,8 +32,17 @@ body {
     text-shadow: 2px 3px 5px black;
 }
 
+.col { 
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+.col i {
+    padding-right: 12px;
+}
+
 .footer {
-    padding:40px 0;
+    padding: 25px 0;
     background-color: #212529c4;
 }
 
