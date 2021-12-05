@@ -1,7 +1,7 @@
 body {
     font-family: 'Quicksand', sans-serif;
     color: white;
-    background-image: linear-gradient(to right,#5A4C97,#938EAE, #8E80B1,#BF9BC4, #3B3B75);
+    background-image: linear-gradient(to right,#141718, #1E1E1E, #443E37, #141718);
 }
 
 .navbar h1 {
@@ -32,8 +32,25 @@ body {
     padding-top: 10px;
 }
 
+#site {
+    text-decoration: none;
+}
+
+#site:visited {
+    color: #8D80AB;
+}
+
 .back {
     text-shadow: 2px 3px 5px black;
+
+}
+
+.shift {
+    padding-left: 150px;
+}
+
+.middle {
+    padding-right: 175px;
 }
 
 .col { 
