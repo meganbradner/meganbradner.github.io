@@ -5,12 +5,12 @@ body {
 }
 
 .navbar h1 {
-    color: #8D80AB;
+    color: #8D8E73;
     padding-left: 15px !important;
 }
 
 .navbar a {
-    color: #8D80AB;
+    color: #8D8E73;
 }
 
 .navbar a:hover {
@@ -37,7 +37,7 @@ body {
 }
 
 #site:visited {
-    color: #8D80AB;
+    color: #8D8E73;
 }
 
 .back {
@@ -79,7 +79,7 @@ body {
 }
 
 .footer a {
-    color: #8D80AB;
+    color: #8D8E73;
     text-decoration: none;
 }
 
@@ -96,7 +96,7 @@ i {
     margin-top: 15px;
     text-align: center;
     font-size:  15px;
-    color:#8D80AB;
+    color:#8D8E73;
 }
 
 
