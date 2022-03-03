@@ -14,14 +14,10 @@ body {
 }
 
 .navbar a:hover {
-    color: #E11268;
+    color: #E2D9CC;
     text-decoration: underline;
 }
 
-#sky {
-    width: 100vw;
-    height: 400px;
-}
 
 .about {
     background-color: rgba(255, 255, 255, 0.76);
@@ -35,6 +31,12 @@ body {
 #site {
     text-decoration: none;
 }
+
+#novel a:hover {
+    color: #3B433A;
+    text-decoration: underline;
+}
+
 
 #site:visited {
     color: #8D8E73;
@@ -89,7 +91,7 @@ body {
 }
 
 .footer a:hover {
-    color: #E11268;
+    color: #E2D9CC;
     text-decoration: underline;
 }
 
