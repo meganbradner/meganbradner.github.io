@@ -63,6 +63,11 @@ body {
     padding-right: 12px;
 }
 
+#dj {
+    background-color: white;
+    margin: 8px;
+}
+
 .footer {
     padding: 25px 0 10px 0;
     background-color: #212529c5;
