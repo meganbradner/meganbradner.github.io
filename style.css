@@ -109,17 +109,24 @@ i {
 
 @media (min-width: 320px) {
 
+
 .navbar h1 {
-    margin-left: 50px;
+    margin-left: 125px;  
 }
 
 .navbar a { 
     padding-left: 38px;
 }
 
+.navbar ul {
+    padding-left: 40px;
+}
+
 .about {
     text-align: center;
 }
+
+
 
 }
 
