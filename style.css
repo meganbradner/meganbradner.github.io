@@ -111,21 +111,21 @@ i {
 
 
 .navbar h1 {
-    margin-left: 125px;  
+    margin-left: 100px;  
 }
 
 .navbar a { 
-    padding-left: 38px;
-}
-
-.navbar ul {
-    padding-left: 40px;
+    margin-left: 10px;
 }
 
 .about {
     text-align: center;
 }
 
+.footer a {
+    padding-bottom: 14px;
+    margin-left: 10px;  
+}
 
 
 }
